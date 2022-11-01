@@ -17,4 +17,4 @@ Edited Files:
 
 • searchAgents.py → Where all of your search-based agents will reside.
 
-See Assignment1.pdf for more details
+See Assignment1.pdf (Part 2) for more details
